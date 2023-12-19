@@ -54,7 +54,7 @@ npm start
 
 API Endpoints
 Express.js Backend: http://localhost:3000
-React Frontend: http://localhost:3000
+React Frontend: http://localhost:3001
 Django API: http://localhost:8000/api/compare-ngrams/
 
 Contributing
